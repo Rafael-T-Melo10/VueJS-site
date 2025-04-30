@@ -62,5 +62,3 @@ Acesse o front em:
     Já que o limite de requisições dessa API é de 500 por mês 
 
     Isso economiza requisições e permite desenvolvimento offline
-
-    A chave da RapidAPI fica protegida no back-end
