@@ -1,7 +1,7 @@
-# 📈 Yahoo Finance Graphs com Vue.js + .NET 6
+# 📈 Yahoo Finance Graphs com Vue.js + .NET 8
 
 Este projeto é uma aplicação que consome dados da API do Yahoo Finance para exibir gráficos interativos de ações, FIIs e ETFs.  
-Foi desenvolvido com **Vue.js no front-end** e **ASP.NET Core (.NET 6) no back-end** para lidar com cache local de dados (mock) e proteger a chave da API.
+Foi desenvolvido com **Vue.js no front-end** e **ASP.NET Core (.NET 8) no back-end** para lidar com cache local de dados (mock) e proteger a chave da API.
 
 ---
 
@@ -24,7 +24,7 @@ Foi desenvolvido com **Vue.js no front-end** e **ASP.NET Core (.NET 6) no back-e
 - Axios (`^1.x`)
 
 ### Back-end
-- [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - ASP.NET Core Web API
 - HttpClient
 - Suporte a CORS e arquivos estáticos (`wwwroot/mocks`)
@@ -42,16 +42,16 @@ dotnet run
 
 Por padrão, o servidor estará em:
 📍 http://localhost:5000/api/yahoo/{symbol}
-
+```
 ### 🌐 2. Front-end (Vue)
-
+```bash
 cd vueSite
 npm install
 npm run serve
 
 Acesse o front em:
 📍 http://localhost:8080/ ou a porta exibida no terminal
-
+```
 
 ## 🧠 Observações
 
@@ -67,7 +67,7 @@ Acesse o front em:
 
     Node.js ^18.x
 
-    .NET 6 SDK
+    .NET 8 SDK
 
     Navegador moderno (Chrome/Firefox)
 
