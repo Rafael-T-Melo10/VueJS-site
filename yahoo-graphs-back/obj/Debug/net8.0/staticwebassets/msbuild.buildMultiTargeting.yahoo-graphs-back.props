@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\yahoo-graphs-back.props" />
+</Project>

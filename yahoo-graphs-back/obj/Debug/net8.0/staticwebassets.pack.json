@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBAS3.SA.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBAS3.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBDC4.SA.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBDC4.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-HGLG11.SA.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-HGLG11.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-ITUB4.SA.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-ITUB4.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-KNRI11.SA.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-KNRI11.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-PETR4.SA.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-PETR4.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VALE3.SA.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-VALE3.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^BVSP.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^BVSP.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^GSPC.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.yahoo-graphs-back.props",
+      "PackagePath": "build\\yahoo-graphs-back.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.yahoo-graphs-back.props",
+      "PackagePath": "buildMultiTargeting\\yahoo-graphs-back.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.yahoo-graphs-back.props",
+      "PackagePath": "buildTransitive\\yahoo-graphs-back.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.yahoo-graphs-back.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
