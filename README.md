@@ -59,16 +59,6 @@ Acesse o front em:
 
     Se o arquivo não existir, o back-end chama a API do Yahoo via RapidAPI e salva o mock automaticamente
 
+    Já que o limite de requisições dessa API é de 500 por mês 
+
     Isso economiza requisições e permite desenvolvimento offline
-
-    A chave da RapidAPI fica protegida no back-end
-
-## 📌 Requisitos
-
-    Node.js ^18.x
-
-    .NET 8 SDK
-
-    Navegador moderno (Chrome/Firefox)
-
-    Git (opcional)
