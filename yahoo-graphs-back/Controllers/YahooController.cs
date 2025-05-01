@@ -17,9 +17,14 @@ public class YahooController : ControllerBase
     }
 
     [HttpGet("{symbol}")]
-    public async Task<IActionResult> GetStockHistory(string symbol)
+    public async Task<IActionResult> GetStockHistory(
+        string symbol,
+        [FromQuery] string interval = "1mo",
+        [FromQuery] string range = "5y"
+    )
     {
-        var mockPath = Path.Combine(_env.WebRootPath, $"mocks/mock-{symbol}.json");
+        var mockFileName = $"mock-{symbol}-{interval}-{range}.json";
+        var mockPath = Path.Combine(_env.WebRootPath, "mocks", mockFileName);
 
         if (System.IO.File.Exists(mockPath))
         {
@@ -31,13 +36,16 @@ public class YahooController : ControllerBase
         client.DefaultRequestHeaders.Add("X-RapidAPI-Key", "700db5ba69msh081457af76a898cp16c086jsnb9c67140e4db");
         client.DefaultRequestHeaders.Add("X-RapidAPI-Host", "apidojo-yahoo-finance-v1.p.rapidapi.com");
 
-        var url = $"https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v3/get-chart?symbol={symbol}&interval=1mo&range=5y&region=BR";
+        var url = $"https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v3/get-chart?symbol={symbol}&interval={interval}&range={range}&region=BR";
         var response = await client.GetAsync(url);
 
         if (!response.IsSuccessStatusCode)
             return StatusCode((int)response.StatusCode, "Erro na API");
 
         var content = await response.Content.ReadAsStringAsync();
+
+        // Garante que a pasta mocks exista
+        Directory.CreateDirectory(Path.Combine(_env.WebRootPath, "mocks"));
 
         await System.IO.File.WriteAllTextAsync(mockPath, content);
 

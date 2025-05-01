@@ -1,23 +1,48 @@
-.DS_Store
-node_modules
-/dist
-
-
-# local env files
+# Node / Vue
+node_modules/
+dist/
+.env
 .env.local
 .env.*.local
 
-# Log files
+# Vite
+.vite/
+.cache/
+*.local
+
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Editor directories and files
-.idea
-.vscode
+# System
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# .NET
+bin/
+obj/
+*.user
 *.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+*.userosscache
+*.sln.docstates
+
+# ASP.NET secrets
+secrets.json
+
+# Publish output
+wwwroot/mocks/*.json
+
+# OS
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Others
+*.log
+*.tmp
+*.bak

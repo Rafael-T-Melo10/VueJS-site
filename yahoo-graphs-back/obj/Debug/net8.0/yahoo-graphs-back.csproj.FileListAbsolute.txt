@@ -32,3 +32,4 @@ C:\Users\rafae\OneDrive\Área de Trabalho\vueSite\yahoo-graphs-back\obj\Debug\ne
 C:\Users\rafae\OneDrive\Área de Trabalho\vueSite\yahoo-graphs-back\obj\Debug\net8.0\yahoo-graphs-back.pdb
 C:\Users\rafae\OneDrive\Área de Trabalho\vueSite\yahoo-graphs-back\obj\Debug\net8.0\yahoo-graphs-back.genruntimeconfig.cache
 C:\Users\rafae\OneDrive\Área de Trabalho\vueSite\yahoo-graphs-back\obj\Debug\net8.0\ref\yahoo-graphs-back.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\vueSite\yahoo-graphs-back\obj\Debug\net8.0\yahoo-graphs-back.sourcelink.json

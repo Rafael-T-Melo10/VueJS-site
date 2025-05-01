@@ -1,13 +1,11 @@
 <template>
   <div class="acoes-container">
-    <!-- Camada de loading flutuante -->
     <div v-if="loading" class="overlay-loading">
       <div class="spinner" />
       <p>Carregando gráficos, por favor aguarde...</p>
     </div>
 
-    <!-- Gráficos montam desde o início -->
-    <div class="acoes-grafico">
+    <div v-else class="acoes-grafico">
       <StockChart symbol="^BVSP" title="Cotação do IBOV" />
       <TopAcoesBar :ativos="acoes" titulo="Top Ações da Semana" />
       <VolumeBarras
@@ -32,29 +30,48 @@ const loading = ref(true);
 onMounted(() => {
   setTimeout(() => {
     loading.value = false;
-  }, 8000);
+  }, 0);
 });
 </script>
 
 <style scoped>
 .acoes-container {
   background-color: #f8fafc;
-  min-height: 100vh;
   display: flex;
   justify-content: center;
-  padding: 2rem;
-  align-items: center;
+  align-items: start;
   position: relative;
+  width: 100%;
 }
 
 .acoes-grafico {
-  background-color: lightcyan;
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: grid;
   width: 100%;
-  max-width: 900px;
+  height: 100%;
+  padding: 1rem;
+  background-color: #cfe9f9;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
   z-index: 0;
+}
+
+.acoes-grafico :deep(canvas) {
+  width: 100% !important;
+  height: 320px !important;
+}
+
+@media (min-width: 768px) {
+  .acoes-grafico {
+    grid-template-columns: 1fr 1fr;
+  }
+  .acoes-grafico :deep(canvas) {
+    max-height: 400px;
+  }
+}
+
+@media (max-width: 767px) {
+  .acoes-grafico {
+    grid-template-columns: 1fr;
+  }
 }
 
 .overlay-loading {
@@ -64,7 +81,7 @@ onMounted(() => {
   right: 0;
   bottom: 0;
   z-index: 10;
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.95);
   display: flex;
   flex-direction: column;
   justify-content: center;
