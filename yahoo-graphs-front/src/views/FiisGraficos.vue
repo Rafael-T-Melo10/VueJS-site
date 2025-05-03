@@ -36,7 +36,7 @@ onMounted(() => {
 
 <style scoped>
 .acoes-container {
-  background-color: #f8fafc;
+  background-color: #cfe9f9;
   display: flex;
   justify-content: center;
   align-items: start;
@@ -50,7 +50,8 @@ onMounted(() => {
   height: 100%;
   padding: 1rem;
   background-color: #cfe9f9;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  gap: 2rem;
+  margin: 1rem auto;
   z-index: 0;
 }
 

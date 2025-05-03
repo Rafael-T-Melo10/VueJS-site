@@ -28,10 +28,8 @@ body {
 .nav-bar {
   display: flex;
   justify-content: center;
-  background-color: #ffffff;
-  padding: 0.5rem;
-  border-bottom: 2px solid #93c5fd;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+
+  box-shadow: 0 2px 6px rgba(209, 143, 143, 0.05);
   border-radius: 0 0 12px 12px;
 }
 
@@ -41,12 +39,13 @@ body {
   color: #1e3a8a;
   padding: 0.5rem 1rem;
   margin: 0px 5px;
-  border-radius: 8px;
+  border-radius: 0px 0px 8px 8px;
   transition: background 0.2s, color 0.2s;
+  background-color: #78cff7;
 }
 
 .nav-link:hover {
-  background-color: #0ea5e9;
+  background-color: #0084c1;
   color: white;
   border-color: #0284c7;
 }

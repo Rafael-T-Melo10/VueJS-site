@@ -111,11 +111,11 @@ watch([() => props.symbol, rangeAtual], renderChart);
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 30px;
   background: white;
   padding: 1rem;
   border-radius: 1rem;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  gap: 2rem;
 }
 
 .botoes-range {

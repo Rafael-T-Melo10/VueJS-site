@@ -1,56 +1,516 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBAS3.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBAS3.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBAS3.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBAS3.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBAS3.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBAS3.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBAS3.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBAS3.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBAS3.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBAS3.SA-1mo-6mo.json"
+    },
+    {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBAS3.SA.json",
       "PackagePath": "staticwebassets\\mocks\\mock-BBAS3.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBDC4.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBDC4.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBDC4.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBDC4.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBDC4.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBDC4.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBDC4.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBDC4.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBDC4.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BBDC4.SA-1mo-6mo.json"
     },
     {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBDC4.SA.json",
       "PackagePath": "staticwebassets\\mocks\\mock-BBDC4.SA.json"
     },
     {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BCFF11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BCFF11.SA-1mo-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA-1d-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA-1d-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA-1d-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA-1d-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA-1d-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA-1d-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA-1d-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA-1d-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA-1d-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA-1d-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA-1mo-6mo.json"
+    },
+    {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BOVA11.SA.json",
       "PackagePath": "staticwebassets\\mocks\\mock-BOVA11.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-DIVO11.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-DIVO11.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-DIVO11.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-DIVO11.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-DIVO11.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-DIVO11.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-DIVO11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-DIVO11.SA-1mo-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-HGLG11.SA-1d-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-HGLG11.SA-1d-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-HGLG11.SA-1d-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-HGLG11.SA-1d-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-HGLG11.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-HGLG11.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-HGLG11.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-HGLG11.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-HGLG11.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-HGLG11.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-HGLG11.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-HGLG11.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-HGLG11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-HGLG11.SA-1mo-6mo.json"
     },
     {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-HGLG11.SA.json",
       "PackagePath": "staticwebassets\\mocks\\mock-HGLG11.SA.json"
     },
     {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-ITUB4.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-ITUB4.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-ITUB4.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-ITUB4.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-ITUB4.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-ITUB4.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-ITUB4.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-ITUB4.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-ITUB4.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-ITUB4.SA-1mo-6mo.json"
+    },
+    {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-ITUB4.SA.json",
       "PackagePath": "staticwebassets\\mocks\\mock-ITUB4.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA-1d-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA-1d-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA-1d-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA-1d-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA-1d-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA-1d-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA-1d-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA-1d-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA-1d-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA-1d-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA-1mo-6mo.json"
     },
     {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-IVVB11.SA.json",
       "PackagePath": "staticwebassets\\mocks\\mock-IVVB11.SA.json"
     },
     {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-KNRI11.SA-1d-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-KNRI11.SA-1d-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-KNRI11.SA-1d-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-KNRI11.SA-1d-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-KNRI11.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-KNRI11.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-KNRI11.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-KNRI11.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-KNRI11.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-KNRI11.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-KNRI11.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-KNRI11.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-KNRI11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-KNRI11.SA-1mo-6mo.json"
+    },
+    {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-KNRI11.SA.json",
       "PackagePath": "staticwebassets\\mocks\\mock-KNRI11.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-MXRF11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-MXRF11.SA-1mo-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-PETR4.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-PETR4.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-PETR4.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-PETR4.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-PETR4.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-PETR4.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-PETR4.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-PETR4.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-PETR4.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-PETR4.SA-1mo-6mo.json"
     },
     {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-PETR4.SA.json",
       "PackagePath": "staticwebassets\\mocks\\mock-PETR4.SA.json"
     },
     {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-RBRF11.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-RBRF11.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-RBRF11.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-RBRF11.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-RBRF11.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-RBRF11.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-RBRF11.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-RBRF11.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-RBRF11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-RBRF11.SA-1mo-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA-1d-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA-1d-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA-1d-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA-1d-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA-1d-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA-1d-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA-1d-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA-1d-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA-1d-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA-1d-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA-1mo-6mo.json"
+    },
+    {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-SMAL11.SA.json",
       "PackagePath": "staticwebassets\\mocks\\mock-SMAL11.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VALE3.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-VALE3.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VALE3.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-VALE3.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VALE3.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-VALE3.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VALE3.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-VALE3.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VALE3.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-VALE3.SA-1mo-6mo.json"
     },
     {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VALE3.SA.json",
       "PackagePath": "staticwebassets\\mocks\\mock-VALE3.SA.json"
     },
     {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VISC11.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-VISC11.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VISC11.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-VISC11.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VISC11.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-VISC11.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VISC11.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-VISC11.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-VISC11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-VISC11.SA-1mo-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XFIX11.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XFIX11.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XFIX11.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XFIX11.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XFIX11.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XFIX11.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XFIX11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XFIX11.SA-1mo-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA-1d-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA-1d-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA-1d-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA-1d-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA-1mo-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA-6mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA-6mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA-6mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA-6mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA-6mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA-6mo-6mo.json"
+    },
+    {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-XPML11.SA.json",
       "PackagePath": "staticwebassets\\mocks\\mock-XPML11.SA.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^BVSP-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^BVSP-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^BVSP-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^BVSP-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^BVSP-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^BVSP-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^BVSP-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^BVSP-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^BVSP-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^BVSP-1mo-6mo.json"
     },
     {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^BVSP.json",
       "PackagePath": "staticwebassets\\mocks\\mock-^BVSP.json"
     },
     {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC-1d-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^GSPC-1d-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC-1d-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^GSPC-1d-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC-1d-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^GSPC-1d-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC-1d-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^GSPC-1d-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC-1d-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^GSPC-1d-6mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC-1mo-1mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^GSPC-1mo-1mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC-1mo-1y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^GSPC-1mo-1y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC-1mo-3mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^GSPC-1mo-3mo.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC-1mo-5y.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^GSPC-1mo-5y.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC-1mo-6mo.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-^GSPC-1mo-6mo.json"
+    },
+    {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^GSPC.json",
       "PackagePath": "staticwebassets\\mocks\\mock-^GSPC.json"
+    },
+    {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-movers.json",
+      "PackagePath": "staticwebassets\\mocks\\mock-movers.json"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.yahoo-graphs-back.props",

@@ -104,7 +104,6 @@ watch([() => props.symbol, rangeAtual], carregarVolume);
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 30px;
   background: white;
   padding: 1rem;
   border-radius: 1rem;

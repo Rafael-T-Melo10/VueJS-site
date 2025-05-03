@@ -1,16 +1,21 @@
 <template>
-  <div class="home">
-    <HomeComponent msg="Welcome to Your Vue.js App" />
+  <div class="home-container">
+    <MarketMovers />
+    <!-- <AtivosEmAltaBaixa />
+    <NoticiaMercado /> -->
   </div>
 </template>
 
-<script>
-import HomeComponent from "@/components/HomeComponent.vue";
-
-export default {
-  name: "HomeView",
-  components: {
-    HomeComponent,
-  },
-};
+<script setup>
+import MarketMovers from "../components/GetMarketMovers.vue";
 </script>
+
+<style scoped>
+.home-container {
+  max-width: 1000px;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+</style>
