@@ -96,13 +96,13 @@ public class YahooController : ControllerBase
     {
         var mockFileName = "market-news.json";
         var mockPath = Path.Combine(_env.WebRootPath, "mocks", mockFileName);
-
+        // 1. Verifica se existe mock salvo
         if (System.IO.File.Exists(mockPath))
         {
             var json = await System.IO.File.ReadAllTextAsync(mockPath);
             return Content(json, "application/json");
         }
-
+        // 2. Se não existir, busca da API
         var client = _clientFactory.CreateClient();
         client.DefaultRequestHeaders.Add("X-RapidAPI-Key", "700db5ba69msh081457af76a898cp16c086jsnb9c67140e4db");
         client.DefaultRequestHeaders.Add("X-RapidAPI-Host", "apidojo-yahoo-finance-v1.p.rapidapi.com");

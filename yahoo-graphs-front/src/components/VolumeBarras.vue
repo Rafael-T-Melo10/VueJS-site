@@ -29,7 +29,6 @@ const props = defineProps({
 const canvas = ref(null);
 let chart = null;
 
-// Ranges com labels claros
 const rangesDisponiveis = [
   { value: "1mo", label: "1 mês" },
   { value: "3mo", label: "3 meses" },
