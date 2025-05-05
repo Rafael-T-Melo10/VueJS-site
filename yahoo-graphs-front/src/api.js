@@ -27,3 +27,13 @@ export const getMarketIndices = async () => {
     throw error;
   }
 };
+
+export const getNoticias = async () => {
+  try {
+    const response = await axios.get(`${API_BACK_URL}/noticias`);
+    return response.data;
+  } catch (error) {
+    console.error("Erro ao buscar notícias:", error);
+    throw error;
+  }
+};

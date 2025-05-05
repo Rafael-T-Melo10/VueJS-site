@@ -254,7 +254,7 @@
         "id": "2dd8e3c9-8755-4d02-9bf3-0dd0640d38f2",
         "title": "Day Losers - Brazil",
         "description": "Stocks ordered in ascending order by price percent change with respect to the previous close for Brazil",
-        "canonicalName": "DAY_LOSERS_BR",
+        "canonicalName": "DAY_LOESRS_BR",
         "criteriaMeta": {
           "size": 6,
           "offset": 0,

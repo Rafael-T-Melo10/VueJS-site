@@ -1,18 +1,18 @@
 <template>
-  <div class="acoes-container">
+  <div class="Etfs-container">
     <div v-if="loading" class="overlay-loading">
       <div class="spinner" />
       <p>Carregando gráficos, por favor aguarde...</p>
     </div>
 
-    <div v-else class="acoes-grafico">
+    <div v-else class="Etfs-grafico">
       <StockChart symbol="^GSPC" title="Cotação do S&P500" />
-      <TopAcoesBar :ativos="etfs" titulo="Top ETFs da Semana" />
+      <TopEtfsBar :ativos="etfs" titulo="Top ETFs da Semana" />
       <VolumeBarras
         symbol="IVVB11.SA"
         titulo="Volume de IVVB11 nos últimos dias"
       />
-      <ComparativoAcoes :ativos="etfs" titulo="Comparativo ETFs" />
+      <ComparativoEtfs :ativos="etfs" titulo="Comparativo ETFs" />
     </div>
   </div>
 </template>
@@ -21,8 +21,8 @@
 import { ref, onMounted } from "vue";
 import StockChart from "../components/StockChart.vue";
 import VolumeBarras from "../components/VolumeBarras.vue";
-import TopAcoesBar from "../components/TopAtivosBar.vue";
-import ComparativoAcoes from "../components/ComparativoAtivos.vue";
+import TopEtfsBar from "../components/TopAtivosBar.vue";
+import ComparativoEtfs from "../components/ComparativoAtivos.vue";
 
 const etfs = ["BOVA11.SA", "IVVB11.SA", "SMAL11.SA", "XFIX11.SA", "DIVO11.SA"];
 const loading = ref(true);
@@ -35,7 +35,7 @@ onMounted(() => {
 </script>
 
 <style scoped>
-.acoes-container {
+.Etfs-container {
   background-color: #cfe9f9;
   display: flex;
   justify-content: center;
@@ -44,7 +44,7 @@ onMounted(() => {
   width: 100%;
 }
 
-.acoes-grafico {
+.Etfs-grafico {
   display: grid;
   width: 100%;
   height: 100%;
@@ -53,25 +53,26 @@ onMounted(() => {
   z-index: 0;
   gap: 2rem;
   margin: 1rem auto;
+  min-width: 1270px;
 }
 
-.acoes-grafico :deep(canvas) {
+.Etfs-grafico :deep(canvas) {
   width: 100% !important;
   height: 320px !important;
 }
 
 @media (min-width: 768px) {
-  .acoes-grafico {
+  .Etfs-grafico {
     grid-template-columns: 1fr 1fr;
   }
 
-  .acoes-grafico :deep(canvas) {
+  .Etfs-grafico :deep(canvas) {
     max-height: 400px;
   }
 }
 
 @media (max-width: 767px) {
-  .acoes-grafico {
+  .Etfs-grafico {
     grid-template-columns: 1fr;
   }
 }

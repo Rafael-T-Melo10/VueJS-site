@@ -53,6 +53,7 @@ onMounted(() => {
   z-index: 0;
   gap: 2rem;
   margin: 1rem auto;
+  min-width: 1270px;
 }
 
 .acoes-grafico :deep(canvas) {

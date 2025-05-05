@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "24GxPISpfhhp8OW+g13eJiSt10JMB/c9NGGhHd6vHr0=",
+  "Hash": "eN3ehPcxmUphbV08k/E9o5v8uQkcayrHt1G981QlcOw=",
   "Source": "yahoo-graphs-back",
   "BasePath": "_content/yahoo-graphs-back",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\market-news.json",
+      "SourceId": "yahoo-graphs-back",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\",
+      "BasePath": "_content/yahoo-graphs-back",
+      "RelativePath": "mocks/market-news.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mocks\\market-news.json"
+    },
     {
       "Identity": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-^BVSP-1mo-1mo.json",
       "SourceId": "yahoo-graphs-back",

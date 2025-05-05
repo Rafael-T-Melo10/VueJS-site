@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yahoo-graphs-back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5062a1025b4321f9ff26f9ec517d6a134d0a4e37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+517be101fe0b5d8055aaf649383b94229fba8999")]
 [assembly: System.Reflection.AssemblyProductAttribute("yahoo-graphs-back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yahoo-graphs-back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

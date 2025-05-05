@@ -1,18 +1,18 @@
 <template>
-  <div class="acoes-container">
+  <div class="fiis-container">
     <div v-if="loading" class="overlay-loading">
       <div class="spinner" />
       <p>Carregando gráficos, por favor aguarde...</p>
     </div>
 
-    <div v-else class="acoes-grafico">
+    <div v-else class="fiis-grafico">
       <StockChart symbol="XPML11.SA" title="Cotação do XPML11" />
-      <TopAcoesBar :ativos="fiis" titulo="Top FIIs da Semana" />
+      <TopFiisBar :ativos="fiis" titulo="Top FIIs da Semana" />
       <VolumeBarras
         symbol="HGLG11.SA"
         titulo="Volume do HGLG11 nos últimos dias"
       />
-      <ComparativoAcoes :ativos="fiis" titulo="Comparativo FIIs" />
+      <ComparativoFiis :ativos="fiis" titulo="Comparativo de FIIs" />
     </div>
   </div>
 </template>
@@ -21,8 +21,8 @@
 import { ref, onMounted } from "vue";
 import StockChart from "../components/StockChart.vue";
 import VolumeBarras from "../components/VolumeBarras.vue";
-import TopAcoesBar from "../components/TopAtivosBar.vue";
-import ComparativoAcoes from "../components/ComparativoAtivos.vue";
+import TopFiisBar from "../components/TopAtivosBar.vue";
+import ComparativoFiis from "../components/ComparativoAtivos.vue";
 
 const fiis = ["HGLG11.SA", "KNRI11.SA", "XPML11.SA", "VISC11.SA", "RBRF11.SA"];
 const loading = ref(true);
@@ -35,7 +35,7 @@ onMounted(() => {
 </script>
 
 <style scoped>
-.acoes-container {
+.fiis-container {
   background-color: #cfe9f9;
   display: flex;
   justify-content: center;
@@ -44,7 +44,7 @@ onMounted(() => {
   width: 100%;
 }
 
-.acoes-grafico {
+.fiis-grafico {
   display: grid;
   width: 100%;
   height: 100%;
@@ -53,25 +53,26 @@ onMounted(() => {
   gap: 2rem;
   margin: 1rem auto;
   z-index: 0;
+  min-width: 1270px;
 }
 
-.acoes-grafico :deep(canvas) {
+.fiis-grafico :deep(canvas) {
   width: 100% !important;
   height: 320px !important;
 }
 
 @media (min-width: 768px) {
-  .acoes-grafico {
+  .fiis-grafico {
     grid-template-columns: 1fr 1fr;
   }
 
-  .acoes-grafico :deep(canvas) {
+  .fiis-grafico :deep(canvas) {
     max-height: 400px;
   }
 }
 
 @media (max-width: 767px) {
-  .acoes-grafico {
+  .fiis-grafico {
     grid-template-columns: 1fr;
   }
 }

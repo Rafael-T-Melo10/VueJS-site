@@ -1,13 +1,13 @@
 <template>
   <div class="home-container">
+    <NoticiaMercado :noticias="noticiasDoMercado" />
     <MarketMovers />
-    <!-- <AtivosEmAltaBaixa />
-    <NoticiaMercado /> -->
   </div>
 </template>
 
 <script setup>
 import MarketMovers from "../components/GetMarketMovers.vue";
+import NoticiaMercado from "../components/NoticiaMercado.vue";
 </script>
 
 <style scoped>
@@ -16,6 +16,6 @@ import MarketMovers from "../components/GetMarketMovers.vue";
   margin: 1rem auto;
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 0.5rem;
 }
 </style>

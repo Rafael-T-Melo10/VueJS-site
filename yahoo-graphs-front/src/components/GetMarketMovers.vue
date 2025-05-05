@@ -30,13 +30,11 @@ onMounted(async () => {
 </script>
 <style scoped>
 .resumo-movers {
-  max-width: 1000px;
-  margin: 0px auto;
-  padding: 1rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  justify-content: center;
+  max-width: 1100px;
+  margin: 1rem auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
 }
 
 .grupo-card {

@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\market-news.json",
+      "PackagePath": "staticwebassets\\mocks\\market-news.json"
+    },
+    {
       "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-BBAS3.SA-1mo-1mo.json",
       "PackagePath": "staticwebassets\\mocks\\mock-BBAS3.SA-1mo-1mo.json"
     },
