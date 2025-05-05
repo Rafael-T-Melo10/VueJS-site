@@ -1,6 +1,6 @@
 # 📈 Yahoo Finance Graphs com Vue.js + .NET 8
 
-Este projeto é uma aplicação moderna que consome dados da API do Yahoo Finance para exibir gráficos interativos, notícias financeiras e informações do mercado brasileiro em tempo real.
+Este projeto é uma aplicação moderna que consome dados da API do Yahoo Finance para exibir gráficos interativos, notícias financeiras e informações do mercado brasileiro.
 
 Criado com Vue.js 3 no front-end e ASP.NET Core (.NET 8) no back-end, ele usa cache local para otimizar performance e proteger sua chave de API.
 
@@ -12,7 +12,7 @@ Criado com Vue.js 3 no front-end e ASP.NET Core (.NET 8) no back-end, ele usa ca
 - 📊 Gráfico de barras de volume
 - 🏆 Top 5 ativos com maior variação
 - 🧠 Fallback inteligente: se não houver JSON salvo, busca da API e armazena localmente
-- 🗞️ Carrossel de notícias financeiras, com transição suave
+- 🗞️ Carrossel de notícias financeiras
 - 📱 Menu lateral com perfil e animação, ideal para mobile
 - 🌐 Resumo diário de ativos em alta, baixa e mais negociados (Brasil)
 
