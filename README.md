@@ -14,7 +14,7 @@ Criado com Vue.js 3 no front-end e ASP.NET Core (.NET 8) no back-end, ele usa ca
 - 🧠 Fallback inteligente: se não houver JSON salvo, busca da API e armazena localmente
 - 🗞️ Carrossel de notícias financeiras, com transição suave
 - 📱 Menu lateral com perfil e animação, ideal para mobile
-- 📱 🌐 Resumo diário de ativos em alta, baixa e mais negociados (Brasil)
+- 🌐 Resumo diário de ativos em alta, baixa e mais negociados (Brasil)
 
 ---
 
