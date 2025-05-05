@@ -513,10 +513,6 @@
       "PackagePath": "staticwebassets\\mocks\\mock-^GSPC.json"
     },
     {
-      "Id": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-movers.json",
-      "PackagePath": "staticwebassets\\mocks\\mock-movers.json"
-    },
-    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.yahoo-graphs-back.props",
       "PackagePath": "build\\yahoo-graphs-back.props"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eN3ehPcxmUphbV08k/E9o5v8uQkcayrHt1G981QlcOw=",
+  "Hash": "FGXaAEqjNC8JXtFwn8g9P255MgKfOz1vLpb7oQwcErE=",
   "Source": "yahoo-graphs-back",
   "BasePath": "_content/yahoo-graphs-back",
   "Mode": "Default",
@@ -1516,25 +1516,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\mocks\\mock-KNRI11.SA.json"
-    },
-    {
-      "Identity": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-movers.json",
-      "SourceId": "yahoo-graphs-back",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\",
-      "BasePath": "_content/yahoo-graphs-back",
-      "RelativePath": "mocks/mock-movers.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\mocks\\mock-movers.json"
     },
     {
       "Identity": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\vueSite\\yahoo-graphs-back\\wwwroot\\mocks\\mock-MXRF11.SA-1mo-6mo.json",

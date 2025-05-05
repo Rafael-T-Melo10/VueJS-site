@@ -120,7 +120,7 @@ body {
   height: 100vh;
   width: 185px;
   background-color: #ffffff;
-  padding: 0.5rem 1rem 1rem;
+  padding: 0.5rem 1rem 1rem 0rem;
   box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
   z-index: 999;
   display: flex;
@@ -129,15 +129,15 @@ body {
 }
 
 .menu-link {
-  width: 100%;
+  width: 90%;
   text-align: left;
   text-decoration: none;
   font-weight: 600;
   color: #1e3a8a;
   background-color: #78cff7;
-  padding: 0.6rem 1rem;
+  padding: 0.6rem 0.6rem 0.6rem 1.2rem;
   margin-bottom: 0.5rem;
-  border-radius: 6px;
+  border-radius: 0px 15px 15px 0px;
   transition: background 0.2s;
 }
 

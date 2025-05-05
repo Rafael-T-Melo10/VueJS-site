@@ -70,7 +70,7 @@ public class YahooController : ControllerBase
         client.DefaultRequestHeaders.Add("X-RapidAPI-Key", "700db5ba69msh081457af76a898cp16c086jsnb9c67140e4db");
         client.DefaultRequestHeaders.Add("X-RapidAPI-Host", "apidojo-yahoo-finance-v1.p.rapidapi.com");
 
-        var url = "https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-movers?region=BR&lang=pt";
+        var url = "https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-movers?region=US&lang=pt-BR";
 
         try
         {
