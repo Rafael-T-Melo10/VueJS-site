@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação moderna que consome dados da API do Yahoo Finance para exibir gráficos interativos, notícias financeiras e informações do mercado brasileiro.
 
-Criado com Vue.js 3 no front-end e ASP.NET Core (.NET 8) no back-end, ele usa cache local para otimizar performance e proteger sua chave de API.
+Criado com Vue.js 3 no front-end e ASP.NET Core (.NET 8) no back-end, ele usa cache local para otimizar performance.
 
 ---
 
